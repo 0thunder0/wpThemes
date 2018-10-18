@@ -1,0 +1,526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Newspaper\n"
+"POT-Creation-Date: 2013-09-16 14:35+0200\n"
+"PO-Revision-Date: 2013-09-16 14:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wp_008\\wp-content\\themes"
+"\\008\\includes\\app\n"
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:4
+msgid "View all results"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:5
+msgid "No results"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:7
+msgid "Home"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:8
+msgid "Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:11
+msgid "CLOSE"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:14
+msgid "Page"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:18
+msgid "by"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:19
+msgid "Load more"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:22
+msgid "View all posts in"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:25
+msgid "Previous article"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:26
+msgid "Next article"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:27
+msgid "Author"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:28
+msgid "More articles from author"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:29
+msgid "SIMILAR ARTICLES"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:30
+msgid "source"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:31
+msgid "via"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:32
+msgid "Continue"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:37
+msgid "Name:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:38
+msgid "Email:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:39
+msgid "Website:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:41
+msgid "Leave a Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:42
+msgid "Post Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:43
+msgid "Cancel reply"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:44
+msgid "Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:45
+msgid "Log in to leave a comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:46
+msgid "NO COMMENTS"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:47
+msgid "1 COMMENT"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:48
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:67
+msgid "COMMENTS"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:52
+msgid "Review overview"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:53
+msgid "Summary"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:57
+msgid "404 Error - page not found"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:58
+msgid "OUR LATEST POSTS"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:59
+msgid "We're sorry, but the page you are looking for doesn't exist."
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:60
+msgid "You can go to the"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:62
+msgid "homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:65
+msgid "Posts by "
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:66
+msgid "POSTS"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:70
+msgid "Posts in "
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:73
+msgid "Tags"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:74
+msgid "Posts tagged with"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:78
+msgid "Daily Archives: "
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:79
+msgid "Monthly Archives: "
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:80
+msgid "Yearly Archives: "
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:81
+msgid "Archives"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:85
+msgid "LATEST ARTICLES"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:88
+msgid "search results"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:89
+msgid "Search"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:90
+msgid "If you're not happy with the results, please do another search"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:93
+msgid "Contact us"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:96
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:97
+msgid "Next"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/td_translate.php:98
+msgid "Prev"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_ad_box.php:174
+msgid "Ad box"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_ad_box.php:178
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_authors.php:99
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_text_with_title.php:48
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/widgets/td_footer_logo_widget.php:15
+msgid "Content"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_ad_box.php:185
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:180
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:219
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:175
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:177
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:178
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:219
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide_big.php:242
+msgid "Sort order:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_ad_box.php:194
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_authors.php:124
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:189
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:228
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:184
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:186
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:187
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_popular_categories.php:85
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:228
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_social.php:56
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_text_with_title.php:73
+msgid "Header color"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_ad_box.php:197
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_authors.php:127
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:192
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:201
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:231
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:240
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:187
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:196
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:189
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:198
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:190
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:199
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_popular_categories.php:88
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:231
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:240
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_social.php:59
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_text_with_title.php:76
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_text_with_title.php:85
+msgid "Choose a custom header color for this block"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_authors.php:95
+msgid "Authors box"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_authors.php:115
+msgid "Sort authors by:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:134
+msgid "Block 1"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:138
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:177
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:133
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:135
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:136
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_popular_categories.php:69
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:167
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide_big.php:190
+msgid "Blocks"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:145
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:184
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:140
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:142
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:143
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:184
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide_big.php:207
+msgid "Category filter:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:154
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:193
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:149
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:151
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:152
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:193
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide_big.php:216
+msgid "Multiple categories filter:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:163
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:202
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:158
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:160
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:161
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:202
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide_big.php:225
+msgid "Filter by tag slug:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:170
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:209
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:165
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:167
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:168
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:209
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide_big.php:232
+msgid "5"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:171
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:210
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:166
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:168
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:169
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:210
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide_big.php:233
+msgid "Limit post number:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:198
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:237
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:193
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:195
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:196
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:237
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_text_with_title.php:82
+msgid "Header text color"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:207
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:246
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:202
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:204
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:205
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_popular_categories.php:94
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:246
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_social.php:66
+msgid "Optional - custom title for this block:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:216
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:255
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:211
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:213
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:214
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_popular_categories.php:103
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:255
+msgid ""
+"Optional - custom url for this block (when the module title is clicked):"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:225
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:264
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:220
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:222
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:223
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_popular_categories.php:112
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:264
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_social.php:78
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_text_with_title.php:91
+msgid "Title style:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:234
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:273
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:229
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:231
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:232
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_popular_categories.php:121
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:273
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide_big.php:251
+msgid "Hide block title:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:243
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:282
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:238
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:240
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:241
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:282
+msgid "Show child categories menu:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:252
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:291
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:300
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:247
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:249
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:250
+msgid "Use ajax in child categories menu:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_1.php:261
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:256
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:258
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:259
+msgid "Pagination:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_2.php:173
+msgid "Block 2"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_3.php:129
+msgid "Block 3"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_4.php:131
+msgid "Block 4"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_block_5.php:132
+msgid "Block 5"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_popular_categories.php:65
+msgid "Popular category"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_popular_categories.php:76
+msgid "Limit the number of categories shown):"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide.php:163
+msgid "Slide"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_slide_big.php:186
+msgid "Big Slide"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_social.php:88
+msgid "Icon style:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_social.php:98
+msgid "Icon size:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_social.php:109
+msgid "Open in:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_social.php:131
+msgid "Social icons"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_social.php:135
+msgid "Social"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_text_with_title.php:44
+msgid "Text with title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_text_with_title.php:65
+msgid "Text"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_text_with_title.php:67
+msgid "Enter your content."
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/shortcodes/td_text_with_title.php:100
+msgid "Alignment:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/widgets/td_footer_logo_widget.php:11
+msgid "Footer logo"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/widgets/td_footer_logo_widget.php:21
+msgid "Logo url:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/widgets/td_footer_logo_widget.php:29
+msgid "Logo url retina:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/widgets/td_footer_logo_widget.php:37
+msgid "Footer text:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/widgets/td_footer_logo_widget.php:45
+msgid "Footer text line 2:"
+msgstr ""
+
+#: D:\xampp\htdocs\wp_008\wp-content\themes\008\includes\app/widgets/td_footer_logo_widget.php:53
+msgid "Footer email:"
+msgstr ""

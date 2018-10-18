@@ -1,0 +1,84 @@
+@charset "utf-8";
+/*
+Theme Name: Azeus
+Theme URI: https://wordpress.org/themes/twentyfifteen/
+Author: 叶剑君
+Author URI: http://if.fyi/
+Description: 这里是主题描述主题描述主题描述主题描述主题描述主题描述
+Version: 1.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, two-columns, 
+Text Domain: 
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+body{
+	position: relative;
+}
+
+#nav{
+	width: 60%;
+	position: fixed;
+	top: -8px;
+	left: 20%;
+	/*border: 1px solid grey;*/
+	/*border-radius: 20px;*/	
+	background: grey;
+}
+#nav li{
+	display: block;
+	float: left;
+	margin:0px 10px;
+	padding: 0px 5px;
+	font-size: 20px;
+	text-align: center;
+}
+#banner{
+	margin-top: 40px;
+}
+
+#postMain li,#postMain{
+	display: block;
+	float:left;
+	border: 1px solid grey;
+	border-radius: 20px;
+	margin-bottom: 20px;
+	padding:15px;
+}
+#post_content{
+	border: 1px solid grey;
+	border-radius: 20px;
+	margin-bottom: 10px;
+	padding: 15px;
+}
+/*#sideBar{
+	position: fixed;
+}*/
+.rightSidebar{
+	margin-bottom: 25px;
+}
+.rightSidebar li{
+	display: block;
+	border: 1px solid grey;
+	border-radius: 15px;
+	padding:10px;
+	margin-bottom: 10px;
+}
+
+
+
+.imgStyle{
+	margin-bottom: 15px;
+	padding: 5px;
+
+}
+#wpStyle{
+	height: 300px;
+	background: grey;
+}
+.floatRight{
+	display: block;
+	float: right;
+}

@@ -1,0 +1,169 @@
+/*  ----------------------------------------------------------------------------
+    header background
+*/
+.td-full-layout .td-header-bg {
+  background-color: #ffffff;
+}
+
+.td-boxed-layout .td-logo-rec-wrap {
+  background-color: #ffffff;
+}
+
+/*  ----------------------------------------------------------------------------
+    header-style-3
+*/
+.header-style-3 {
+  .td-grid-wrap {
+    padding-top: 0px;
+  }
+
+  .td_rec {
+    padding: 21px 0 0 0;
+
+    /* responsive phone */
+    @media (max-width: 767px) {
+      padding: 0px;
+    }
+  }
+
+  .td_mod_wrap {
+    /* responsive phone */
+    @media (max-width: 767px) {
+      margin-bottom: 0px;
+    }
+  }
+}
+
+
+/*  ----------------------------------------------------------------------------
+    text logo
+*/
+.header-logo-wrap {
+
+  margin-top: 20px;
+
+  .td-logo-wrap-align {
+    display: block;
+    height: 100px;
+    position: relative;
+
+    /* responsive portrait tablet */
+    @media (min-width: 768px) and (max-width: 1018px) {
+      height: auto;
+    }
+  }
+
+  a.td-logo-wrap {
+    display: block;
+    left: 16px;
+    padding-top: 15px;
+    position: relative;
+
+    /* responsive monitor */
+    @media (min-width: 1200px) {
+      left: 49px;
+    }
+
+    /* responsive portrait tablet */
+    @media (min-width: 768px) and (max-width: 1018px) {
+      padding-bottom: 10px;
+    }
+
+    /* responsive phone */
+    @media (max-width: 767px) {
+      padding-top: 0px;
+      left: 0;
+    }
+
+    &:hover {
+      text-decoration: none !important;
+    }
+  }
+
+  .td-logo-text {
+    display: block;
+    font-family: @font5;
+    font-size: 40px;
+    color: #444444;
+    line-height: 45px;
+    margin-right: 10px;
+
+    /* responsive monitor */
+    @media (min-width: 1200px) {
+      margin-right: 30px;
+    }
+
+    /* responsive portrait tablet */
+    @media (min-width: 768px) and (max-width: 1018px) {
+      font-size: 222%;
+      line-height: 93%;
+      margin-right: 0px;
+    }
+
+    /* responsive phone */
+    @media (max-width: 767px) {
+      font-size: 222%;
+      padding-top: 5px;
+    }
+  }
+
+  .td-tagline-text {
+    display: block;
+    font-family: @font3;
+    font-size: 14px;
+    color: #444444;
+    line-height: 21px;
+    margin-right: 10px;
+
+    /* responsive monitor */
+    @media (min-width: 1200px) {
+      margin-right: 30px;
+    }
+
+    /* responsive portrait tablet */
+    @media (min-width: 768px) and (max-width: 1018px) {
+      font-size: 85%;
+      margin-right: 0px;
+    }
+
+    /* responsive phone */
+    @media (max-width: 767px) {
+      display: none;
+    }
+  }
+
+
+
+  img {
+    margin-left: 15px;
+
+    /* responsive monitor */
+    @media (min-width: 1200px) {
+      margin-left: 48px;
+    }
+
+    /* responsive portrait tablet */
+    @media (min-width: 768px) and (max-width: 1018px) {
+      width:250px;
+      margin-left: 11px;
+    }
+
+    /* responsive phone */
+    @media (max-width: 767px) {
+		width: 170px;
+    }
+  }
+}
+
+.td_responsive {
+  .header-logo-wrap {
+    /* responsive phone */
+    @media (max-width: 767px) {
+      position: absolute;
+      text-align: right;
+      top: -23px;
+      z-index: 3;
+      text-align: right;
+    }
+  }
+}

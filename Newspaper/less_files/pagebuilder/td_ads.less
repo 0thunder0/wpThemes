@@ -1,0 +1,194 @@
+.td_rec .td_mod_wrap{
+  text-align: center;
+
+}
+
+
+
+.td_rec_left {
+  float: left;
+  margin-right: @baseLineHeight;
+  position: relative;
+  top:5px;
+
+  .td_mod_wrap {
+    margin-bottom: 21px;
+  }
+}
+
+
+/*  ----------------------------------------------------------------------------
+    header top ad spot
+*/
+
+
+.td_responsive .td-rec-default {
+  /* responsive monitor */
+  @media (min-width: 1200px) {
+    padding-top: 25px;
+  }
+
+  /* responsive portrait tablet */
+  @media (min-width: 768px) and (max-width: 1018px) {
+    padding-top: 32px;
+  }
+
+  /* responsive phone */
+  @media (max-width: 767px) {
+    display: none;
+  }
+}
+
+.td-logo-rec-wrap {
+
+	.td-rec-default {
+		padding-right: 46px;
+		padding-top: 32px;
+		left: -2px;
+		position: relative;
+		z-index: 9999;
+
+
+	}
+
+	/* adsense responsive */
+	.td-g-rec {
+		padding-right: 20px;
+		padding-top: 40px;
+		left: -6px;
+		position: relative;
+		z-index: 9999;
+		
+		/* responsive monitor */
+		@media (min-width: 1200px) {
+			padding: 25px 46px 0 0;
+		}
+
+		/* responsive portrait tablet */
+		@media (min-width: 768px) and (max-width: 1018px) {
+			padding-top: 29px;
+			left:0px;
+			padding-right: 0px;
+		}
+		
+		/* responsive phone */
+		@media (max-width: 767px) {
+			padding-right: 0px;
+			left:0px;
+		}
+	}
+
+	.td_rec {
+		padding-bottom: 0px;
+		z-index: 9999;
+	}
+
+	.td_mod_wrap {
+		margin-bottom: 0px;
+	}
+
+	.td-rec-phone {
+	  display: none;
+	  /* responsive phone */
+	  @media (max-width: 767px) {
+		  display:block;
+	  }
+	}
+
+	.td-rec-tablet-p {
+	  display: none;
+	  padding-top: 29px;
+	  /* responsive portrait tablet */
+	  @media (min-width: 768px) and (max-width: 1018px) {
+		  display: block;
+	  }
+	}
+
+	.td-rec-tablet-l {
+	  display:block;
+	  padding-top: 40px;
+	  padding-right: 50px;
+	  /* responsive phone */
+	  @media (max-width: 767px) {
+		display: none;
+	  }
+
+	  /* responsive portrait tablet */
+	  @media (min-width: 768px) and (max-width: 1018px) {
+		display: none;
+	  }
+
+	  /* responsive monitor */
+	  @media (min-width: 1200px) {
+		display: none;
+	  }
+	}
+
+	.td-rec-monitor {
+	  display: none;
+	  padding-right: 46px;
+	  padding-top: 25px;
+	  left: -2px;
+	  position: relative;
+	  /* responsive monitor */
+	  @media (min-width: 1200px) {
+		  display: block;
+	  }
+	}
+}
+
+
+
+/*  ----------------------------------------------------------------------------
+    responsive ads
+*/
+
+
+.td-rec-phone {
+  display: none;
+  /* responsive phone */
+  @media (max-width: 767px) {
+      display:block;
+  }
+}
+
+.td-rec-tablet-p {
+  display: none;
+  /* responsive portrait tablet */
+  @media (min-width: 768px) and (max-width: 1018px) {
+      display: block;
+  }
+}
+
+.td-rec-tablet-l {
+  display:block;
+  /* responsive phone */
+  @media (max-width: 767px) {
+    display: none;
+  }
+
+  /* responsive portrait tablet */
+  @media (min-width: 768px) and (max-width: 1018px) {
+    display: none;
+  }
+
+  /* responsive monitor */
+  @media (min-width: 1200px) {
+    display: none;
+  }
+}
+
+.td-rec-monitor {
+  display: none;
+  /* responsive monitor */
+  @media (min-width: 1200px) {
+      display: block;
+  }
+}
+
+/*  ----------------------------------------------------------------------------
+    inline ads
+*/
+.post .td_rec {
+  padding-bottom: 0px !important;
+}

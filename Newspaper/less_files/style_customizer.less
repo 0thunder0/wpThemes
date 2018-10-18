@@ -1,0 +1,145 @@
+/* theme style customizer */
+
+#td-theme-settings {
+
+  /* responsive phone */
+  @media (max-width: 767px) {
+      display: none;
+  }
+  position: absolute;
+  top: 251px;
+  left: 0px;
+  width: 60px;
+  overflow: hidden;
+  background-color: white;
+  border: 1px solid #e8e8e8;
+  border-left: none;
+  padding: 5px 5px 6px 5px;
+
+  z-index: 2;
+
+  height: 257px;
+  .transition(all 0.5s);
+  .td-set-color {
+    width: 20px;
+    height: 20px;
+    background-color: #f3eeee;
+    margin: 5px;
+    float:left;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  .td-set-hide-show {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 16px;
+    a {
+      color:black;
+
+    }
+  }
+}
+
+
+body .td-theme-settings-small {
+  opacity: 0.8;
+  left:-60px !important;
+  height: 30px !important;
+  cursor: pointer;
+
+  -o-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+}
+
+#td-theme-settings.td-theme-settings-no-transition {
+  .transition(all 0s);
+}
+
+
+.td-customizer-change-layout {
+  height: 20px;
+  width: 50px;
+  margin:5px;
+  text-align: center;
+  cursor: pointer;
+  span {
+    -webkit-user-select: none; /* Chrome/Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+ */
+
+    /* Rules below not implemented in browsers yet */
+    -o-user-select: none;
+    user-select: none;
+    position: relative;
+    top:-1px;
+    font-size: 12px;
+
+
+  }
+}
+
+
+
+/* bg */
+.td-change-to-boxed {
+
+  background-color: #E0E0E0;
+}
+
+.td-change-to-full {
+  background-color: #E4FFD8;
+}
+
+.td-theme-settings-show-bg {
+  height: 332px !important;
+}
+
+
+.td-bg-changer {
+  height: 18px;
+  width: 48px;
+
+  text-align: center;
+  cursor: pointer;
+  background-color: #fcfcfc;
+
+  opacity: 0;
+  height: 0;
+  margin: 0px;
+  border: none;
+
+  .transition(opacity 0s);
+  z-index: -1;
+  span {
+    -webkit-user-select: none; /* Chrome/Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+ */
+
+    /* Rules below not implemented in browsers yet */
+    -o-user-select: none;
+    user-select: none;
+    position: relative;
+    top:-3px;
+    font-size: 12px;
+    display: none;
+
+  }
+}
+
+.td-theme-settings-show-bg .td-bg-changer {
+  opacity: 1;
+  .transition(opacity 1s);
+  height: 18px;
+  margin:5px;
+  border: 1px solid #E0E0E0;
+  z-index:0;
+
+  span {
+    display: block;
+  }
+}
